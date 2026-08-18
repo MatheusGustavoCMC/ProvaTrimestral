@@ -1,0 +1,27 @@
+h1{
+    color: rgb(255, 1, 1);
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+h2{
+    color:rgb(255, 0, 0);
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+h3{
+    color: rgb(255, 2, 2);
+    background-color: rgb(255, 255, 255);
+}
+body{
+    background-image: url(Gemini_Generated_Image_3u04gs3u04gs3u04.png);
+    background-size: 100%;
+}
+img{
+    width: 400px;
+}
+footer{
+    background-color: rgb(255, 255, 255) ;
+    color: rgb(245, 0, 0);
+}
